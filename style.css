@@ -1,0 +1,82 @@
+body{
+    border: 1px solid red;
+    height: 530px;
+    width: 1060px;
+    display:flex;
+    flex-direction: row;
+}
+.Main_Box_Three_Column{
+    height: 100%;
+    width: 33.33%;
+    border: 1px solid red;
+}
+.Five_Box_of_Frist_Left_Box{
+    margin: 10px;
+    height:17.5%;
+    width: 93%;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: row;
+    
+}
+.Last_Three_Box{
+    margin: 5px;
+    height: 80px;
+    width: 95px;
+    border: 1px solid red;
+}
+.Last_Two_Ractangle{
+    margin: 5px;
+    height: 30px;
+    width: 310px;
+    border: 1px solid red;
+    }
+ .Last_Two_Box_in_Center{
+        margin: 5px 5px 5px 50px;
+        height: 80px;
+        width: 95px;
+        border: 1px solid red;
+}
+.Last_Two_Box_in_Center_ii{
+    margin: 5px 50px 5px 20px;
+    height: 80px;
+    width: 95px;
+    border: 1px solid red;
+}
+.Last_Two_Box_in_Left_and_Right{
+    margin: 5px 99px 5px 5px;
+    height: 80px;
+    width: 90px;
+    border: 1px solid red;
+}
+.Last_Two_Box_in_Left_and_Right_ii{
+    margin: 5px 5px 5px 50px;
+    height: 80px;
+    width: 90px;
+    border: 1px solid red;
+}
+.Second_Column_First_Top_Box{
+    margin: 5px 5px 5px 5px;
+    height: 20%;
+    width: 96%;
+    border: 1px solid red;
+}
+.Inside_Box{
+    margin: 10px 5px 30px 75px;
+    align-content: center;
+    height: 80%;
+    width: 40%;
+    border: 1px solid red;
+}
+.Second_Colunm_Second_Box{
+    margin-bottom: 50px;
+    height: 20%;
+    width: 96%;
+    border: 1px solid red;
+}
+.Second_Colunm_Second_Box_ii{
+    margin-top: 200px;
+    height: 20%;
+    width: 96%;
+    border: 1px solid red;
+}
